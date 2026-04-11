@@ -1,0 +1,8 @@
+# Ignore datasets
+Datasets/
+cmaps combined datasets/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
